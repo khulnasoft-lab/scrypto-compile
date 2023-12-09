@@ -24,7 +24,7 @@ setup(
             "black==22.3.0",
             "pylint==2.13.4",
             "mypy==0.942",
-            "darglint==1.8.0",
+            "darglint==1.8.1",
         ],
         "doc": [
             "pdoc",
