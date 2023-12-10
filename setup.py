@@ -23,7 +23,7 @@ setup(
         "lint": [
             "black==22.3.0",
             "pylint==2.13.4",
-            "mypy==0.942",
+            "mypy==0.991",
             "darglint==1.8.0",
         ],
         "doc": [
